@@ -24,7 +24,7 @@ Resources:
       Description: Politicas de acesso para engenheiro de dados
       PolicyDocument:
         Version: 2012-10-17
-        Statement: --teste
+        Statement: 
           - Effect: Allow
             Action:
               - s3:GetBucketLocation
