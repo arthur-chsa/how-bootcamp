@@ -1,3 +1,4 @@
+#comentario dispensal
 Description: Cria um Kinesis Stream e um Kinesis Data Firehose que vai salvar o stream de dados para um bucket S3.
 
 Resources:
