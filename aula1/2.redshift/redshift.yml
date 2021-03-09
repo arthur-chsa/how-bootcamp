@@ -1,3 +1,4 @@
+#comentario dispensal
 Description: Cria um cluster Redshift que é publicamente acessível a partir da internet.
 
 Resources:
